@@ -121,7 +121,7 @@ export default function RemoveLiquidity({
       { name: 'verifyingContract', type: 'address' },
     ]
     const domain = {
-      name: 'King Doge LP',
+      name: 'LabraDoodle Exchange LP',
       version: '1',
       chainId,
       verifyingContract: pair.liquidityToken.address,
