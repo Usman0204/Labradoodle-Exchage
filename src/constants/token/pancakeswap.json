@@ -18,7 +18,9 @@
       "symbol": "LABRAD",
       "address": "0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770",
       "chainId": 56,
-      "decimals": 9
+      "decimals": 9,
+      "logoURI": "/images/coins/LABRAD.png"
+
     },
     {
       "name": "BUSD Token",
@@ -38,7 +40,7 @@
     },
     {
       "name": "LabraDoodle Coin",
-      "symbol": "LABRAD ",
+      "symbol": "LABRAD",
       "address": "0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770",
       "chainId": 97,
       "decimals": 9

@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://kingdoge.io',
+    href: 'https://labradoodlecoin.com',
   },
   {
     label: 'Trade',
