@@ -14,8 +14,8 @@
   ],
   "tokens": [
     {
-      "name": "KingDoge",
-      "symbol": "KDOGE",
+      "name": "LabraDoodle Coin",
+      "symbol": "LABRAD",
       "address": "0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770",
       "chainId": 56,
       "decimals": 9
@@ -37,8 +37,8 @@
       "logoURI": "/images/coins/BUSD.png"
     },
     {
-      "name": "KingDoge",
-      "symbol": "KDOGE",
+      "name": "LabraDoodle Coin",
+      "symbol": "LABRAD ",
       "address": "0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770",
       "chainId": 97,
       "decimals": 9
